@@ -70,3 +70,5 @@ build
 dist
 bundles
 .history
+
+.now
